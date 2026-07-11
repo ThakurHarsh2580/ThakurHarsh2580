@@ -134,7 +134,7 @@ A fully responsive e-commerce platform with a smooth, modern shopping experience
 
 </div>
 
-**200+ problems solved** — Arrays · Strings · Linked Lists · Binary Trees
+**200+ problems solved** — Arrays · Strings · Linked Lists
 
 ---
 
