@@ -112,9 +112,11 @@ A fully responsive e-commerce platform with a smooth, modern shopping experience
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ThakurHarsh2580&show_icons=true&theme=tokyonight&border_color=7c3aed&count_private=true&cache_seconds=1800" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThakurHarsh2580&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThakurHarsh2580&theme=tokyonight" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakurHarsh2580&layout=compact&theme=tokyonight&border_color=7c3aed&cache_seconds=1800" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThakurHarsh2580&theme=tokyonight" height="180"/>
 
 <br/>
 
@@ -128,7 +130,7 @@ A fully responsive e-commerce platform with a smooth, modern shopping experience
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/ThakurHarsh258?theme=dark&font=Fira%20Code&ext=contest&border=1&radius=10" width="500"/>
+<img src="https://leetcard.jacoblin.cool/ThakurHarsh258?theme=dark&font=Fira%20Code&ext=heatmap&border=1&radius=10" width="500"/>
 
 </div>
 
