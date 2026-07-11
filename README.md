@@ -75,14 +75,6 @@ const harsh = {
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/ThakurHarsh2580">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThakurHarsh2580&repo=ResuMind&theme=tokyonight&border_color=7c3aed" />
-</a>
-
-</div>
-
 ### ResuMind — AI Resume Analyzer
 > *React.js · React Router · Tailwind CSS · Puter.js AI API* &nbsp; `2026`
 
@@ -120,13 +112,13 @@ A fully responsive e-commerce platform with a smooth, modern shopping experience
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ThakurHarsh2580&show_icons=true&theme=tokyonight&border_color=7c3aed&hide_border=false&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ThakurHarsh2580&show_icons=true&theme=tokyonight&border_color=7c3aed&count_private=true&cache_seconds=1800" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakurHarsh2580&layout=compact&theme=tokyonight&border_color=7c3aed&hide_border=false" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakurHarsh2580&layout=compact&theme=tokyonight&border_color=7c3aed&cache_seconds=1800" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThakurHarsh2580&theme=tokyonight&border=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="500"/>
+<img src="https://streak-stats.demolab.com/?user=ThakurHarsh2580&theme=tokyonight&border=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="500"/>
 
 </div>
 
